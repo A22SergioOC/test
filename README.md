@@ -1,2 +1,2 @@
 # test
-Null
+This is my first repository.
